@@ -1,0 +1,23 @@
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+.dark-mode {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+.dark-mode label {
+    color: #ffffff;
+}
+
+.dark-mode input {
+    background-color: #3d3d3d;
+    color: #ffffff;
+}
+
+.dark-mode button {
+    background-color: #3d3d3d;
+    color: #ffffff;
+}
